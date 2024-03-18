@@ -10,7 +10,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 # URLの指定
 
-year_list = ["2024","2023","2022", "2021", "2020"]
+year_list = ["2024","2023","2022", "2021", "2020","2019","2018"]
 
 dir = './data'
 if not os.path.exists(dir):
